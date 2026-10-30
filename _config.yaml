@@ -3,7 +3,6 @@ description: cool description
 theme: minima
 
 header_pages:
-  - index.md
   - features.md
   - download.md
   - screenshots.md
