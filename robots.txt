@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://fluorite-systems.github.io/sitemap.xml

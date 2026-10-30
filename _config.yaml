@@ -1,0 +1,13 @@
+title: Project Fluorite idk
+description: cool description
+theme: minima
+
+header_pages:
+  - index.md
+  - features.md
+  - download.md
+  - screenshots.md
+  - about.md
+
+plugins:
+  - jekyll-seo-tag
